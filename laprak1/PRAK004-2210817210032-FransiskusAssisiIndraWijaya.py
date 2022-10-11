@@ -1,0 +1,8 @@
+print("################################")
+print("#                              #")
+print("#Fransiskus Assisi Indra Wijaya#")
+print("#       2210817210032          #")
+print("#                              #")
+print("#                              #")
+print("#                              #")   
+print("################################")
