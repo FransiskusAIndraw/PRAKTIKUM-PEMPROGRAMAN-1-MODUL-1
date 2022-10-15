@@ -1,1 +1,0 @@
-print("Saya Calon Programmer no.1")
